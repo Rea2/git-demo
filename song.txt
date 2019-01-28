@@ -1,3 +1,15 @@
-first string
-secona string
 
+secona string
+third string
+fourth string
+
+
+fifth string
+sixth string
+
+
+<<<<<<< HEAD
+half strings
+=======
+fake strings
+>>>>>>> e82d21b598f699084e3afc17e237e14a4314030b
