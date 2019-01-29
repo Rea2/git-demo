@@ -1,15 +1,3 @@
 secona string
 third string
-fourth string
-
-
-fifth string
-sixth string
-
-__________
-trush
-__________
-
-
-strings for new branch
-
+fourth
