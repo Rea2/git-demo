@@ -1,3 +1,6 @@
 secona string
 third string
 fourth
+
+some string in master brunch
+we are expecting conflict here
