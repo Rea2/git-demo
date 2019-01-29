@@ -2,5 +2,9 @@ secona string
 third string
 fourth
 
+
 some string in master brunch
 we are expecting conflict here
+
+some string in feature2 brunch
+
